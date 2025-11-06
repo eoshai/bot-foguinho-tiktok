@@ -1,0 +1,11 @@
+{
+  "mensagem_padrao": "🔥 Acende nosso foguinho aee - 🤖",
+  "pessoas_especiais": {
+    "usuario1": "💖",
+    "usuario2": "E aí mano! 🔥"
+  },
+  "delay_entre_mensagens": 2.0,
+  "usar_headless": false,
+  "tempo_espera_load": 15,
+  "screenshot_final": true
+}
