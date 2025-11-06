@@ -70,9 +70,9 @@ Crie o arquivo `fogos.json` com os nomes das pessoas para quem quer enviar mensa
 
 ```json
 [
-  "João Silva",
-  "Maria Santos",
-  "Pedro Oliveira"
+  "usuario1",
+  "usuario2",
+  "usuario3"
 ]
 ```
 
@@ -86,8 +86,8 @@ Edite o arquivo `config.json` para personalizar o comportamento:
 {
   "mensagem_padrao": "🔥 Acende nosso foguinho aee - 🤖",
   "pessoas_especiais": {
-    "Esther 🤍": "💖",
-    "João Silva": "E aí mano! 🔥"
+    "usuario1": "💖",
+    "usuario2": "E aí mano! 🔥"
   },
   "delay_entre_mensagens": 2.0,
   "usar_headless": false,
